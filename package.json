@@ -1,0 +1,24 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "Soy estudiante de la materia de programacion y lenguaje , con el profesor Gerardo Gonzales Tulian",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augustoogas/prueba01.git"
+  },
+  "author": "Ogas Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Augustoogas/prueba01/issues"
+  },
+  "homepage": "https://github.com/Augustoogas/prueba01#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
