@@ -2,7 +2,7 @@
 
 ## **pagina de presentacion**
 
-Soy estudiante de la materia de programacion y lenguaje , con el profesor [Gerardo Gonzales Tulian]
+Soy estudiante de la materia de programacion y lenguaje , con el profesor Gerardo Gonzales Tulian
 
     ![Soy yo](image\yo.jpg)
 
@@ -23,3 +23,8 @@ Soy estudiante de la materia de programacion y lenguaje , con el profesor [Gerar
 #### **Redes sociales**
 
 Este es un link hacia [Mi instagram](https://www.instagram.com/augustoogas13/).
+
+
+Creado el dia 20/03/2023
+
+aa
